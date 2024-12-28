@@ -11,4 +11,4 @@ function linearSearch(array, item) {
     return null;
 }
 
-console.log(linearSearch(array, 8));
+console.log(linearSearch(array, 8)); 
